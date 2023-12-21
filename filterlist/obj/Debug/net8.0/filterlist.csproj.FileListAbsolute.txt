@@ -1,0 +1,14 @@
+/home/joe/Documents/codewars/filterlist/bin/Debug/net8.0/filterlist
+/home/joe/Documents/codewars/filterlist/bin/Debug/net8.0/filterlist.deps.json
+/home/joe/Documents/codewars/filterlist/bin/Debug/net8.0/filterlist.runtimeconfig.json
+/home/joe/Documents/codewars/filterlist/bin/Debug/net8.0/filterlist.dll
+/home/joe/Documents/codewars/filterlist/bin/Debug/net8.0/filterlist.pdb
+/home/joe/Documents/codewars/filterlist/obj/Debug/net8.0/filterlist.GeneratedMSBuildEditorConfig.editorconfig
+/home/joe/Documents/codewars/filterlist/obj/Debug/net8.0/filterlist.AssemblyInfoInputs.cache
+/home/joe/Documents/codewars/filterlist/obj/Debug/net8.0/filterlist.AssemblyInfo.cs
+/home/joe/Documents/codewars/filterlist/obj/Debug/net8.0/filterlist.csproj.CoreCompileInputs.cache
+/home/joe/Documents/codewars/filterlist/obj/Debug/net8.0/filterlist.dll
+/home/joe/Documents/codewars/filterlist/obj/Debug/net8.0/refint/filterlist.dll
+/home/joe/Documents/codewars/filterlist/obj/Debug/net8.0/filterlist.pdb
+/home/joe/Documents/codewars/filterlist/obj/Debug/net8.0/filterlist.genruntimeconfig.cache
+/home/joe/Documents/codewars/filterlist/obj/Debug/net8.0/ref/filterlist.dll
