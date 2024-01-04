@@ -24,6 +24,7 @@ def solve(s,ops):
             boolean_list.append(True)
         else:
             boolean_list.append(False)
+    placement = []
     
     
     pass
