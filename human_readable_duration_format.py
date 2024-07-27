@@ -48,7 +48,6 @@ def format_duration(seconds):
         index = commas[len(commas) - 1]
         outString = outString[2:index] + " and" + outString[index+1:] # Adjusts to turn final comma into an 'and'
     else:
-        index = commas[0]
         outString = outString[2:] # Adjust to remove trailing ", "
     return outString
 
